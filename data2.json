@@ -1,0 +1,35 @@
+[
+    {
+        "gender":"male",
+        "name":"Abhinav",
+        "surname":"Sharma",
+        "bio":"Nice guy looking for some fun. Nothing serious.",
+        "interests":"Music, Movies, Travelling",
+        "picture":"https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Z2lybHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+        "thumb":"",
+        "job":"Artist",
+        "age":"25"
+    },
+    {
+        "gender":"male",
+        "name":"Jerry",
+        "surname":"Smith",
+        "bio":"Nice guy looking for some fun.",
+        "interests":"Cooking, Movies, Travelling",
+        "picture":"https://images.unsplash.com/photo-1503185912284-5271ff81b9a8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Z2lybHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+        "thumb":"",
+        "job":"Blogger",
+        "age":"29"
+    },
+    {
+        "gender":"male",
+        "name":"Olivier",
+        "surname":"Davis",
+        "bio":"Hi there!",
+        "interests":"Skiing, Movies, Travelling",
+        "picture":"https://images.unsplash.com/photo-1484399172022-72a90b12e3c1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGdpcmx8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+        "thumb":"",
+        "job":"Model",
+        "age":"22"
+    }
+]

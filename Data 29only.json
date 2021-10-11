@@ -1,15 +1,98 @@
 [
-     {
-        "id":1,
+     "id":1,
         "gender":"female",
-        "name":"Kanika",
-        "surname":"Singh",
-        "bio":"I am truly delighted to introduce myself.I have pursued bachelors.",
-        "interests":"Listen music, Shopping, Photography",
-        "picture":"https://blogger.googleusercontent.com/img/a/AVvXsEi-qRRlgks1FF6Fw2ah72vOrVzX2grDdDLZE5-GyjXE7xNRGAhAVZLbAvha46ySgECh_6pP3ziFEkoqyr8Dyp9x_k_mi1Z16_iOH3WO7To2Tk8w5d1cM1-mxE8KUrAcljZc22PqvQ3FoVyvLwn3bshsOCImrbXroDS5mdxriUUgrF5OxExv-D6TWKol=s320",
+        "name":"Martha",
+        "surname":"Brown",
+        "bio":"Nice girl looking for some fun. Nothing serious.",
+        "interests":"Music, Movies, Travelling",
+        "picture":"https://kasperdebruyne.be/img/1.jpg",
         "thumb":"https://kasperdebruyne.be/img/1thumb.jpg",
-        "job":"Yes",
+        "job":"Artist",
         "age":"25"
+    },
+    {
+        "id":2,
+        "gender":"female",
+        "name":"Jenny",
+        "surname":"Smith",
+        "bio":"Nice girl looking for some fun.",
+        "interests":"Cooking, Movies, Travelling",
+        "picture":"https://kasperdebruyne.be/img/2.jpg",
+        "thumb":"https://kasperdebruyne.be/img/2thumb.jpg",
+        "job":"Blogger",
+        "age":"29"
+    },
+    {
+        "id":3,
+        "gender":"female",
+        "name":"Oliva",
+        "surname":"Davis",
+        "bio":"Hi there!",
+        "interests":"Skiing, Movies, Travelling",
+        "picture":"https://kasperdebruyne.be/img/3.jpg",
+        "thumb":"https://kasperdebruyne.be/img/3thumb.jpg",
+        "job":"Model",
+        "age":"22"
+    },
+    {
+        "id":4,
+        "gender":"female",
+        "name":"Nathalie",
+        "surname":"Wilson",
+        "bio":"New to the world of online dating.",
+        "interests":"Music, Movies, Travelling, ",
+        "picture":"https://kasperdebruyne.be/img/4.jpg",
+        "thumb":"https://kasperdebruyne.be/img/4thumb.jpg",
+        "job":"Fashionista",
+        "age":"19"
+    },
+    {   
+        "id":5,
+        "gender":"female",
+        "name":"Jennifer",
+        "surname":"Miller",
+        "bio":"I'm so bored rn.",
+        "interests":"Coding",
+        "picture":"https://kasperdebruyne.be/img/5.jpg",
+        "thumb":"https://kasperdebruyne.be/img/5thumb.jpg",
+        "job":"Graphic Designer",
+        "age":"26"
+    },
+    {
+        "id":6,
+        "gender":"female",
+        "name":"Nikki",
+        "surname":"Jones",
+        "bio":"No interest in a ONS.",
+        "interests":"Music, Gaming",
+        "picture":"https://kasperdebruyne.be/img/6.jpg",
+        "thumb":"https://kasperdebruyne.be/img/6thumb.jpg",
+        "job":"Blogger",
+        "age":"21"
+    },
+    {
+        "id":7,
+        "gender":"female",
+        "name":"Stephanie",
+        "surname":"Green",
+        "bio":"Looking for a serious relationship.",
+        "interests":"Movies",
+        "picture":"https://kasperdebruyne.be/img/7.jpg",
+        "thumb":"https://kasperdebruyne.be/img/7thumb.jpg",
+        "job":"Actress",
+        "age":"20"
+    },
+    {
+        "id":8,
+        "gender":"female",
+        "name":"Melanie",
+        "surname":"Geller",
+        "bio":"Dogs are the cutest.",
+        "interests":"Anime, WoW, Weed",
+        "picture":"https://kasperdebruyne.be/img/8.jpg",
+        "thumb":"https://kasperdebruyne.be/img/8thumb.jpg",
+        "job":"UI/UX Developer",
+        "age":"30"
     }
      
 ]

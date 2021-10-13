@@ -1,0 +1,19 @@
+[
+    {
+        "ID": "001", 
+        "Name": "Angular", 
+        "Image": "https://images.pexels.com/photos/1580271/pexels-photo-1580271.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+  
+    {
+        "ID": "002", 
+        "Name": "JSON", 
+        "Image": "https://images.pexels.com/photos/1386604/pexels-photo-1386604.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+  
+    {
+        "ID": "003", 
+        "Name": "Asp.Net", 
+        "Image": "https://images.pexels.com/photos/1386604/pexels-photo-1386604.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+]

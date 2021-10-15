@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Vibration on Mobile</title>
+  
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<html>
+  <head>
+    <title>Vibration on Mobile</title>
+  </head>
+  <body>
+    <button onclick="vibrate()">Press Me!</button>
+  </body>
+</html>
+<!-- partial -->
+  <script>function vibrate(){
+  if(!("vibrate" in navigator)){
+    alert("Vibrate not supported!");
+    return;
+  }
+  navigator.vibrate(5500);
+}</script>
+
+</body>
+</html>
